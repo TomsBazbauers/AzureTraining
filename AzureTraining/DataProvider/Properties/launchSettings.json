@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataProvider": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --port 7074"
+    }
+  }
+}
